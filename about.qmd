@@ -12,5 +12,6 @@ Hello, I'm Xingguang. I use this site to document my learning, practice, and res
 
 - [GitHub](https://github.com/xingguangZ)
 - [笔记 / Notes](notes/index.qmd)
+- [个人简历 / CV](cv.qmd)
 
 > 网站内容代表个人学习与思考。具体项目、数据和工作细节只在适合公开时分享。

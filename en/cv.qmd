@@ -1,0 +1,25 @@
+---
+title: "CV"
+toc: false
+---
+
+# Xingguang
+
+**AI for Science (AI4S)**
+
+I am interested in applying machine learning to scientific questions. This site documents my learning, research practice, and reflections on methods.
+
+## Areas of interest
+
+- Framing scientific questions as machine learning tasks
+- Data, models, and experimental evaluation
+- Reproducible research and knowledge sharing
+
+## Public work
+
+- [AI4S learning and research notes](notes/index.qmd)
+- [Projects and code on GitHub](https://github.com/xingguangZ)
+
+Education, work experience, and specific projects will be added when the details are ready to share publicly. For now, the notes and GitHub profile show the work available online.
+
+[中文版 / Chinese version](../cv.qmd)

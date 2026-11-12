@@ -10,6 +10,7 @@ I want these notes to clarify difficult problems, preserve lessons from experime
 
 - [GitHub](https://github.com/xingguangZ)
 - [Notes](notes/index.qmd)
+- [CV](cv.qmd)
 
 > The content reflects my personal learning and thinking. I share project details, data, and work material only when they are appropriate to publish.
 

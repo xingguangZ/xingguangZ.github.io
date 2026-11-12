@@ -18,6 +18,8 @@ website:
         href: notes/index.qmd
       - text: "关于 / About"
         href: about.qmd
+      - text: "个人简历 / CV"
+        href: cv.qmd
     right:
       - text: English
         href: en/index.qmd

@@ -1,0 +1,25 @@
+---
+title: "个人简历 / CV"
+toc: false
+---
+
+# Xingguang
+
+**AI for Science（AI4S）**
+
+我关注如何把机器学习方法用于科学问题，并在本站记录相关的学习、研究实践与方法思考。
+
+## 关注方向
+
+- 科学问题与机器学习任务的定义
+- 数据、模型与实验评估
+- 可复现研究与知识整理
+
+## 公开资料
+
+- [AI4S 学习与研究笔记](notes/index.qmd)
+- [GitHub 项目与代码](https://github.com/xingguangZ)
+
+教育、工作和具体项目经历将在整理为可公开内容后补充。若想了解现阶段的记录，可以先浏览上面的笔记与 GitHub。
+
+[English version](en/cv.qmd)

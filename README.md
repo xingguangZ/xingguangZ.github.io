@@ -17,3 +17,7 @@ Push to `main`. GitHub Actions renders the site and deploys it to GitHub Pages. 
 ## Add a note
 
 Create a `.qmd` file under `notes/` and, if you want an English translation, another under `en/notes/`. Add links to both note indexes. The [research log template](notes/research-log-template.qmd) provides a starting structure.
+
+## Update the CV
+
+Edit `cv.qmd` and `en/cv.qmd` with public education, work experience, and project details. The navigation links to both language versions.
