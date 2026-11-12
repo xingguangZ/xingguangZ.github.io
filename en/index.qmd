@@ -1,0 +1,30 @@
+---
+title: "Home"
+page-layout: full
+toc: false
+---
+
+<div class="hero">
+  <div class="eyebrow">Xingguang · AI for Science</div>
+  <h1>Make the research process visible.</h1>
+  <p>This is where I document my learning, experiments, and thinking in AI for Science (AI4S): from framing a question and working with data to modeling, evaluation, reproducibility, and reflection.</p>
+  <p class="muted">关于 AI4S 学习与研究过程的公开笔记。<a href="../index.html">阅读中文版 →</a></p>
+  <div class="hero-actions">
+    <a href="notes/index.html">Explore notes</a>
+    <a href="about.html">About me</a>
+  </div>
+</div>
+
+## What you will find here
+
+<div class="note-grid">
+  <div class="note-card"><h3>Research logs</h3><p>Questions, attempts, results, and next steps, including the work behind a final answer.</p></div>
+  <div class="note-card"><h3>Method notes</h3><p>Concepts, tools, and practices worth revisiting while working in AI4S.</p></div>
+  <div class="note-card"><h3>Projects and reproductions</h3><p>Public projects, code, reading notes, and reproducible experiments.</p></div>
+</div>
+
+## Start here
+
+- [Notes](notes/index.qmd): the growing index of public notes.
+- [Research log template](notes/research-log-template.qmd): a practical structure for experiments and learning.
+- [GitHub](https://github.com/xingguangZ): code and projects.

@@ -1,0 +1,30 @@
+---
+title: "首页"
+page-layout: full
+toc: false
+---
+
+<div class="hero">
+  <div class="eyebrow">Xingguang · AI for Science</div>
+  <h1>把研究过程写下来。</h1>
+  <p>这里记录我学习、实践和思考 AI for Science（AI4S）的过程：从问题定义、数据与模型，到实验、复现和方法反思。希望这些公开笔记能帮助交流，也让知识随着工作持续积累。</p>
+  <p class="muted">Notes on learning, building, and thinking in AI for Science. <a href="en/index.html">Read in English →</a></p>
+  <div class="hero-actions">
+    <a href="notes/index.html">浏览笔记</a>
+    <a href="about.html">关于我</a>
+  </div>
+</div>
+
+## 在这里会看到什么
+
+<div class="note-grid">
+  <div class="note-card"><h3>研究日志</h3><p>记录问题、尝试、实验结果和下一步，而不只展示最终答案。</p></div>
+  <div class="note-card"><h3>方法笔记</h3><p>梳理 AI4S 中值得反复查阅的概念、工具和实践方法。</p></div>
+  <div class="note-card"><h3>项目与复现</h3><p>整理能够公开的项目、代码、阅读与复现经验。</p></div>
+</div>
+
+## 从这里开始
+
+- [笔记目录](notes/index.qmd)：按主题逐步整理公开内容。
+- [一份可复用的研究记录模板](notes/research-log-template.qmd)：让学习和实验过程更容易回顾。
+- [GitHub](https://github.com/xingguangZ)：代码与项目入口。

@@ -1,0 +1,16 @@
+---
+title: "关于 / About"
+---
+
+你好，我是 Xingguang。我在这里公开记录 AI for Science（AI4S）的学习、实践与研究思考。
+
+我希望这些笔记能做到三件事：把复杂问题讲清楚；保存实验过程中的判断与教训；让未来的自己和同行可以复用其中的知识。内容会随着学习与项目持续更新。
+
+Hello, I'm Xingguang. I use this site to document my learning, practice, and research thinking in AI for Science. I aim to explain problems clearly, preserve lessons from experiments, and make useful knowledge easier to revisit and share.
+
+## 联系 / Connect
+
+- [GitHub](https://github.com/xingguangZ)
+- [笔记 / Notes](notes/index.qmd)
+
+> 网站内容代表个人学习与思考。具体项目、数据和工作细节只在适合公开时分享。

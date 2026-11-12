@@ -1,0 +1,13 @@
+---
+title: "Notes"
+---
+
+This is the growing index of public notes on learning and working in AI for Science. [中文版](../../notes/index.qmd).
+
+## Research practice
+
+- [Research log template: from question to next step](research-log-template.qmd)
+
+## Growing topics
+
+Research logs, method notes, paper reading, and project reproductions will be added over time. Each note aims to make its context, methods, evidence, and limits clear.

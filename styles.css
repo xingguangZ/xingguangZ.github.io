@@ -1,0 +1,31 @@
+:root {
+  --site-accent: #176b69;
+  --site-ink: #173044;
+}
+
+body { color: var(--site-ink); }
+a { color: var(--site-accent); }
+a:hover { color: #0f4b49; }
+.navbar-brand { font-weight: 700; letter-spacing: .01em; }
+.hero {
+  padding: 3.6rem 0 2.2rem;
+  max-width: 54rem;
+}
+.hero .eyebrow {
+  color: var(--site-accent);
+  font-size: .9rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+.hero h1 { font-size: clamp(2.4rem, 5vw, 4.3rem); line-height: 1.12; margin: .7rem 0 1.1rem; }
+.hero p { font-size: 1.15rem; line-height: 1.75; color: #4b6170; }
+.hero-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.6rem; }
+.hero-actions a { display: inline-block; border: 1px solid var(--site-accent); border-radius: .45rem; padding: .55rem 1rem; text-decoration: none; font-weight: 600; }
+.hero-actions a:first-child { background: var(--site-accent); color: white; }
+.note-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 1.2rem 0 2rem; }
+.note-card { border: 1px solid #dce6e8; border-radius: .7rem; padding: 1.3rem; background: #fbfdfd; }
+.note-card h3 { margin-top: 0; font-size: 1.15rem; }
+.note-card p { margin-bottom: 0; color: #526673; }
+.muted { color: #617480; }
+@media (max-width: 600px) { .hero { padding-top: 2rem; } }

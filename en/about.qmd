@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+Hello, I'm Xingguang. I use this site to document my learning, practice, and research thinking in AI for Science (AI4S).
+
+I want these notes to clarify difficult problems, preserve lessons from experiments, and make useful knowledge easier to revisit and share. The site will grow with my learning and projects.
+
+## Connect
+
+- [GitHub](https://github.com/xingguangZ)
+- [Notes](notes/index.qmd)
+
+> The content reflects my personal learning and thinking. I share project details, data, and work material only when they are appropriate to publish.
+
+[中文版 / Chinese version](../about.qmd)

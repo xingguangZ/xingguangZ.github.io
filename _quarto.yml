@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Xingguang · AI4S Notes"
+  site-url: https://xingguangz.github.io/
+  description: "AI for Science 学习与研究笔记 · Notes on learning and research in AI for Science"
+  repo-url: https://github.com/xingguangZ/xingguangZ.github.io
+  repo-actions: [issue]
+  search: true
+  navbar:
+    background: light
+    left:
+      - text: "首页 / Home"
+        href: index.qmd
+      - text: "笔记 / Notes"
+        href: notes/index.qmd
+      - text: "关于 / About"
+        href: about.qmd
+    right:
+      - text: English
+        href: en/index.qmd
+      - icon: github
+        href: https://github.com/xingguangZ
+        aria-label: GitHub
+  page-footer:
+    left: "© Xingguang"
+    right: "Built with Quarto · [GitHub](https://github.com/xingguangZ)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-copy: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

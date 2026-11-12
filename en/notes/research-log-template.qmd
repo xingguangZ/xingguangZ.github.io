@@ -1,0 +1,35 @@
+---
+title: "Research log template: from question to next step"
+date: 2026-11-12
+categories: [Research practice, Template]
+---
+
+Copy this structure into a new note when documenting learning or experiments. It deliberately includes unsuccessful attempts and open questions because they often inform the next decision.
+
+## 1. Question and context
+
+- What scientific question are you trying to answer? What is the task and success criterion?
+- What baselines, data sources, and related work are relevant?
+- Which assumptions does this work depend on?
+
+## 2. This attempt
+
+- Which data, preprocessing steps, model, or method did you use?
+- What changed compared with the baseline?
+- How did you control randomness and record versions and configurations?
+
+## 3. Results and evidence
+
+- What do the main metrics, uncertainty, and visualizations show?
+- Could data leakage, distribution shift, or weak controls affect the result?
+- Which observations are facts, and which are still interpretations?
+
+## 4. Reflection and next step
+
+- What did not work, and what might explain it?
+- What are the scope and limits of the current conclusion?
+- What is the smallest next experiment that would teach you the most?
+
+Before publishing, check that the data, code, figures, and work details may be shared. When necessary, keep only public methods and conclusions.
+
+[中文版](../../notes/research-log-template.qmd)

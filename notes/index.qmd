@@ -1,0 +1,15 @@
+---
+title: "笔记 / Notes"
+---
+
+这里将逐步收录 AI4S 学习、研究与实践中的公开笔记。内容首先按用途组织，之后再随主题增长细分。
+
+This is the growing index of public notes on learning and working in AI for Science. [English version](../en/notes/index.qmd).
+
+## 研究方法
+
+- [研究记录模板：从问题到下一步](research-log-template.qmd)
+
+## 后续主题
+
+研究日志、方法笔记、论文阅读和项目复现会逐步加入。每篇笔记尽量说明背景、方法、证据和局限。
